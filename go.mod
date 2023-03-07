@@ -1,4 +1,4 @@
-module github.com/dtm-labs/driver-gozero
+module github.com/ansoda/driver-gozero
 
 go 1.15
 
